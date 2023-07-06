@@ -1,3 +1,4 @@
 # required packages from pip
 scrapy
 ipython
+scrapeops-scrapy-proxy-sdk
