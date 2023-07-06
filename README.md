@@ -3,7 +3,9 @@
 
 AmazonScraper is a Python web scraping project built with Scrapy that allows you to extract product information from Amazon.com. It retrieves details such as product names, prices, ratings, and reviews for a given search query on Amazon.
 
-This project demonstrates how to use Scrapy with ScrapeOps Proxy for web scraping with JavaScript rendering. It provides a basic setup for rendering JavaScript content and routing requests through the ScrapeOps proxy network.
+This project demonstrates how to use Scrapy with ScrapeOps Proxy for web scraping with JavaScript rendering. It provides a basic setup for rendering JavaScript content and routing requests through the ScrapeOps proxy network. 
+
+A test ```product_data.csv``` file is included to show the data it will pull from Amazon.
 
 ## Features
 
